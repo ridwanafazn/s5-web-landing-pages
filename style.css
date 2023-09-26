@@ -1,9 +1,11 @@
 body{
     font-family: "Avenir Next";
 }
+
 /* header */
 .header{
-    background-color: maroon;
+    font-family: cursive;
+    background-color: #00ABE4;
     color: #fff;
     height: 90px;
     border-top-left-radius: 10px;
@@ -71,8 +73,9 @@ input, textarea{
 }
 /* footer */
 .footer{
+    font-family: "Inter", sans-serif;
     margin-top: 10px;
-    background-color: maroon;
+    background-color: #00ABE4;
     color: #fff;
     height: 120px;
     padding: 40px;
