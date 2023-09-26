@@ -4,7 +4,7 @@ body{
 
 /* header */
 .header{
-    font-family: cursive;
+    font-family: Poppins;
     background-color: #00ABE4;
     color: #fff;
     height: 90px;
@@ -73,11 +73,11 @@ input, textarea{
 }
 /* footer */
 .footer{
-    font-family: "Inter", sans-serif;
+    font-family: Poppins;
     margin-top: 10px;
     background-color: #00ABE4;
     color: #fff;
-    height: 120px;
+    height: 135px;
     padding: 40px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
